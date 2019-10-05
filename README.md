@@ -1,5 +1,6 @@
 # AmExpert-2019
-Analytics Vidhya AmExpert ML Competition Link: [AmExpert Hackathon](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/)
+Analytics Vidhya AmExpert ML Competition 
+#### Link: [AmExpert Hackathon](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/)
 
 ## Problem Statement
 
