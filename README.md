@@ -82,6 +82,10 @@ test.csv: Contains the coupon customer combination for which redemption status i
 - coupon_id	Unique id for a discount coupon
 - customer_id	Unique id for a customer 
 
+### Notes
+
+I have joined the train table with the other tables based on the respective unique id and have done the aggregating on these tables before joining. And i have used the LightBGM model for the classification which gave me the CV Score of around 0.89 and LB Score on the Analytics Vidya Leader Baord is 0.8199
+
 #### Disclaimer
 ```text
 I don't own copyrights to data provided here. All the data are provided just for reference and educational purpose only. 
